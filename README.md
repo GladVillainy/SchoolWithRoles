@@ -1,2 +1,2 @@
 # SchoolWithRoles
-Small task: practiced arrays
+Small task: practiced arrays and relations
