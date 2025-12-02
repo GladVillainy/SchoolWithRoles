@@ -1,2 +1,2 @@
 # SchoolWithRoles
-Exercise: practiced arrays and relations
+Exercise: practiced arrays and relations.
